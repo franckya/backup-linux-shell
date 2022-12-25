@@ -4,6 +4,6 @@ This script creates a tarball (a compressed archive file) with the current date 
 
 You can run this script by making it executable and then running it, like this:
 
-`` chmod +x backup.sh
-./backup.sh
- ``
+`` chmod +x backup.sh``
+``./backup.sh``
+ 
