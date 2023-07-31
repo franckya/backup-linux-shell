@@ -46,5 +46,3 @@ This script is a simple bash script used to create backups of a specified source
 - Customize the script as per your specific backup needs, such as including/excluding certain files or directories from the backup or implementing retention policies for old backups.
 
 ---
-
-Feel free to modify this readme file according to your project's needs, and remember to replace the placeholder paths and directories with the actual ones specific to your setup.
